@@ -48,7 +48,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/matheusrossidev/matheusrossidev/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/matheusrossidev/matheusrossidev/blob/output/github-contribution-grid-snake.svg
 
 ###
 Profile Readme Generator
