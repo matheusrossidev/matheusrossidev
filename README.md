@@ -1,4 +1,4 @@
-<h2 align="center">Olá 👋! Meu nome é Matheus Rossi | JS Full Stack Developer</h2>
+<h2 align="center">Hi 👋! My name is Matheus Rossi | Front-End Software Engineer | JavaScript | TypeScript | React | React Native | NodeJS</h2>
 
 ###
 
