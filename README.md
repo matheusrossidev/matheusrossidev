@@ -39,9 +39,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/matheusrossidev/matheusrossidev/output/snake.svg" alt="Snake animation" />
-
-###
