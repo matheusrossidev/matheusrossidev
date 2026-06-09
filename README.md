@@ -74,10 +74,10 @@ Full Stack Developer with **7+ years** of experience delivering complex web syst
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusrossidev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrossidev&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusrossidev&theme=tokyonight&hide_border=true" height="165" alt="streak" />
 </p>
